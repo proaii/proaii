@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Phanthach Jiamjaruschot</h1>
-<h3 align="center">I'm a Computer Engineering Student at KMUTT and I interested in Cybersecurity</h3>
+<h3 align="center">I'm a Computer Engineering Student at KMUTT and I am interested in Cybersecurity</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
