@@ -49,10 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -61,9 +57,15 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/44216386?s=200&v=4" height="40" alt="burp suite logo" />
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" height="40" alt="wireshark logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/1817167?s=200&v=4" height="40" alt="graylog logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/550px-BurpSuite_Comunity_Edition.svg.png" height="40" alt="burp suite logo" />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/graylog-icon-2048x1980-ebfbdmv3.png" height="40" alt="burp suite logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" height="40" alt="Ubuntu logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux logo" />
   <img width="12" />
 </div>
 
