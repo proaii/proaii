@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="assets/vanitas.gif" height="250" alt="Vanitas No Carte GIF" />
+  <img src="vanitas-no.gif" height="250" alt="Vanitas No Carte GIF" />
 </div>
 
 ###
