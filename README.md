@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="elfaria.gif" height="250" alt="Vanitas No Carte GIF" />
+  <img src="tsue-to-tsurugi.gif" height="250" alt="Elfaria GIF" />
 </div>
 
 ###
