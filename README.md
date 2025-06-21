@@ -10,6 +10,8 @@
 
 <h2 align="left">About me</h2>
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/proai.png)](https://tryhackme.com/p/proai)
+
 <p align="left">🎓 Computer Engineering @ KMUTT | 🛡️ Aspiring Penetration Tester<br>🔍 Passionate about Cybersecurity, CTFs, and Offensive Security<br>🛠️ Skilled in Python, C/C++, Docker, Wireshark, Burp Suite, and more<br>🎮 Gamer & Anime lover | Currently exploring Red Team tools</p>
 
 ###
