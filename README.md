@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Phanthach Jiamjaruscshot 🐱‍💻</h2>
+<h2 align="left">Hi 👋! My name is Phanthach Jiamjaruschot 🐱‍💻</h2>
 
 ###
 
