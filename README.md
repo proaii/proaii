@@ -1,9 +1,10 @@
+
 <h2 align="left">Hi 👋! My name is Phanthach Jiamjaruschot 🐱‍💻</h2>
 
 ###
 
-<div align="center">
-  <img src="tsue-to-tsurugi.gif" height="520" width="921" alt="Elfaria GIF" style="aspect-ratio: auto;" />
+<div align="left">
+  <img src="tsue-to-tsurugi.gif" height="220" alt="Elfaria GIF" style="aspect-ratio: auto;" />
 </div>
 
 ###
