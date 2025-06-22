@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="tsue-to-tsurugi.gif" height="520" width="921" alt="Elfaria GIF" />
+  <img src="tsue-to-tsurugi.gif" height="520" width="921" alt="Elfaria GIF" style="aspect-ratio: auto;" />
 </div>
 
 ###
