@@ -10,66 +10,36 @@
 
 <h2 align="left">About me</h2>
 
-[![TryHackMe Badge](https://github.com/user-attachments/assets/eb8d0a47-d3d6-498b-b99e-0a1c5410305a)](https://tryhackme.com/p/proai)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/proai.png?update=2)
 
 <p align="left">🎓 Computer Engineering @ KMUTT | 🛡️ Aspiring Penetration Tester<br>🔍 Passionate about Cybersecurity, CTFs, and Offensive Security<br>🛠️ Skilled in Python, C/C++, Docker, Wireshark, Burp Suite, and more<br>🎮 Gamer & Anime lover | Currently exploring Red Team tools</p>
 
 ###
 
-<h2 align="left">🛡️ Cybersecurity Tools & Platforms</h2>
+<h2 align="left">🛡️ Cybersecurity Tools & Offensive Stack ⚔️</h2>
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="60" alt="Wireshark" title="Wireshark" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/550px-BurpSuite_Comunity_Edition.svg.png" height="60" alt="Burp Suite" title="Burp Suite" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/866922?v=4" height="60" alt="Autopsy" title="Autopsy Forensics" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/250px-Ghidra_logo.svg.png" height="60" alt="Ghidra" title="Ghidra RE" />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/graylog-icon-2048x1980-ebfbdmv3.png" height="60" alt="Graylog" title="Graylog" />
-  <img width="12" />
-  <img src="https://nmap.org/images/sitelogo-2x.png" height="60" alt="Graylog" title="Nmap" />
-  <img width="12" />
-  <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" height="60" alt="Graylog" title="Netcat" />
-  <img width="12" />
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="60" alt="Graylog" title="Hydra" />
-</div>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali linux" title="Kali linux"/></code>
+<code><img width="50" src="https://i0.wp.com/letslearnabout.net/wp-content/uploads/2023/07/ad5a831987ef92f60ea5ecd4b29523c3.png?fit=400%2C400&ssl=1" alt="Metasploit" title="Metasploit"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" alt="BurpSuite" title="BurpSuite"/></code>
+<code><img width="50" src="https://cdn.brandfetch.io/nmap.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" alt="Nmap" title="Nmap"/></code>
+<code><img width="50" src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdump" title="tcpdump"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" title="wireshark"/></code>
+<code><img width="50" src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" title="hashcat"/></code>
+<code><img width="50" src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" title="john"/></code>
+<code><img width="50" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="autopsy" title="autopsy"/></code>
+<code><img width="50" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" title="ghidra"/></code>
+<code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" alt="graylog" title="graylog"/></code>
 
-###
-
-<h2 align="left">🐧 OS & Environments</h2>
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" height="60" alt="Ubuntu" title="Ubuntu" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="60" alt="Kali Linux" title="Kali Linux" />
-</div>
-
-###
-
-<h2 align="left">🔧 Dev Tools & Frameworks</h2>
-
-<div align="left">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="60" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="Visual Studio Code" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" title="Postman" />
-</div>
 
 ###
 
 <h2 align="left">💻 Programming Languages</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" title="C"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="60" alt="MySQL" title="MySQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="Arduino" title="Arduino"/>
-</div>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" alt="C#" title="C#"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="Typescript" title="Typescript"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+
