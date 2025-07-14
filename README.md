@@ -29,6 +29,7 @@
 <code><img width="50" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" alt="autopsy" title="autopsy"/></code>
 <code><img width="50" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" title="ghidra"/></code>
 <code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" alt="graylog" title="graylog"/></code>
+<code><img width="50" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" title="hydra"/></code>
 
 
 ###
