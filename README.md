@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/proai.png?update=2)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/proai.png?update=3)
 
 <p align="left">🎓 Computer Engineering @ KMUTT | 🛡️ Aspiring Penetration Tester<br>🔍 Passionate about Cybersecurity, CTFs, and Offensive Security<br>🛠️ Skilled in Python, C/C++, Docker, Wireshark, Burp Suite, and more<br>🎮 Gamer & Anime lover | Currently exploring Red Team tools</p>
 
@@ -30,6 +30,7 @@
 <code><img width="50" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" title="ghidra"/></code>
 <code><img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" alt="graylog" title="graylog"/></code>
 <code><img width="50" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" title="hydra"/></code>
+<code><img width="50" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" title="gobuster"/></code>
 
 
 ###
