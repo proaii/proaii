@@ -19,7 +19,6 @@
 <h2 align="left">🛡️ Cybersecurity Tools & Offensive Stack ⚔️</h2>
 
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali linux" title="Kali linux"/></code>
-<code><img width="50" src="https://i0.wp.com/letslearnabout.net/wp-content/uploads/2023/07/ad5a831987ef92f60ea5ecd4b29523c3.png?fit=400%2C400&ssl=1" alt="Metasploit" title="Metasploit"/></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" alt="BurpSuite" title="BurpSuite"/></code>
 <code><img width="50" src="https://cdn.brandfetch.io/nmap.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" alt="Nmap" title="Nmap"/></code>
 <code><img width="50" src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdump" title="tcpdump"/></code>
